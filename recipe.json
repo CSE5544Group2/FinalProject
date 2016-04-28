@@ -1,0 +1,154 @@
+{
+   "name":"Dish",
+   "children":[
+      {
+         "name":"toast",
+         "children":[
+            {
+               "name":"serve",
+               "children":[
+                  {
+                     "name":"stir",
+                     "children":[
+                        {
+                           "name":"add",
+                           "children":[
+                              {
+                                 "name":"remove",
+                                 "children":[
+                                    {
+                                       "name":"fold",
+                                       "children":[
+                                          {
+                                             "name":"add",
+                                             "children":[
+                                                {
+                                                   "name":"melt",
+                                                   "children":[
+                                                      {
+                                                         "name":"mash",
+                                                         "children":[
+                                                            {
+                                                               "name":"add",
+                                                               "children":[
+                                                                  {
+                                                                     "name":"mash",
+                                                                     "children":[
+                                                                        {
+                                                                           "name":"add",
+                                                                           "children":[
+                                                                              {
+                                                                                 "name":"place",
+                                                                                 "children":[
+                                                                                    {
+                                                                                       "name":"cheese",
+                                                                                       "children":[
+
+                                                                                       ]
+                                                                                    },
+                                                                                    {
+                                                                                       "name":"bowl",
+                                                                                       "children":[
+
+                                                                                       ]
+                                                                                    }
+                                                                                 ]
+                                                                              },
+                                                                              {
+                                                                                 "name":"herbs",
+                                                                                 "children":[
+
+                                                                                 ]
+                                                                              }
+                                                                           ]
+                                                                        },
+                                                                        {
+                                                                           "name":"fork",
+                                                                           "children":[
+
+                                                                           ]
+                                                                        }
+                                                                     ]
+                                                                  },
+                                                                  {
+                                                                     "name":"onions",
+                                                                     "children":[
+
+                                                                     ]
+                                                                  }
+                                                               ]
+                                                            }
+                                                         ]
+                                                      },
+                                                      {
+                                                         "name":"butter",
+                                                         "children":[
+
+                                                         ]
+                                                      }
+                                                   ]
+                                                },
+                                                {
+                                                   "name":"eggs",
+                                                   "children":[
+
+                                                   ]
+                                                }
+                                             ]
+                                          },
+                                          {
+                                             "name":"spatula",
+                                             "children":[
+
+                                             ]
+                                          }
+                                       ]
+                                    },
+                                    {
+                                       "name":"heat",
+                                       "children":[
+
+                                       ]
+                                    }
+                                 ]
+                              },
+                              {
+                                 "name":"cheese",
+                                 "children":[
+
+                                 ]
+                              }
+                           ]
+                        },
+                        {
+                           "name":"cheese",
+                           "children":[
+
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "name":"chives",
+                     "children":[
+
+                     ]
+                  },
+                  {
+                     "name":"salt",
+                     "children":[
+
+                     ]
+                  },
+                  {
+                     "name":"pepper",
+                     "children":[
+
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
